@@ -1,4 +1,6 @@
 project_venv
 db.sqlite3
 mysite/settings.py
+__pychache__/
+*.pyc
 
