@@ -3,4 +3,4 @@ db.sqlite3
 mysite/settings.py
 __pychache__/
 *.pyc
-
+polls/static/polls/images
